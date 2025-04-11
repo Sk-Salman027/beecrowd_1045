@@ -6,7 +6,7 @@ Read 3 double numbers (A, B and C) representing the sides of a triangle and arra
 <li>if A<sup>2</sup> = B<sup>2</sup> + C<sup>2</sup>, write the message: TRIANGULO RETANGULO</li>
 <li>if A<sup>2</sup> > B<sup>2</sup> + C<sup>2</sup>, write the message: TRIANGULO OBTUSANGULO</li>
 <li>if A<sup>2</sup> < B<sup>2</sup> + C<sup>2</sup>, write the message: TRIANGULO ACUTANGULO</li>
-<li>if the three sides are the same size, write the message: TRIANGULO EQUILATERO<li>
+<li>if the three sides are the same size, write the message: TRIANGULO EQUILATERO</li>
 <li>if only two sides are the same and the third one is different, write the message: TRIANGULO ISOSCELES</li>
 
 ### Input 
